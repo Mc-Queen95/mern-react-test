@@ -1,2 +1,2 @@
-console.log("Hey there! This is version 3")
-console.log("There is an error in this file. Try going back and restore the code in version 1")
+console.log("Hey there! This is version 3");
+console.log("I am typing this line after I have restored my code from Version 1")
